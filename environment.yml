@@ -1,0 +1,21 @@
+name: taxi_fare
+channels:
+  - conda-forge
+dependencies:
+  - flake8
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - ydata-profiling
+  - geopandas
+  - folium
+  - mapclassify
+  - geopy
+  - tqdm
+  - contextily
+  - pyarrow
+  - fastparquet
+  - networkx
+  - holidays

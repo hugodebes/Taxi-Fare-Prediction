@@ -1,0 +1,17 @@
+flake8
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+ydata-profiling
+geopandas
+folium
+mapclassify
+geopy
+tqdm
+contextily
+pyarrow
+fastparquet
+networkx
+holidays
